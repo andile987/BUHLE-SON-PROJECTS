@@ -1,12 +1,13 @@
 body {
-    background-color: skyblue;
+    background-color: white;
+ 
 }
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: aliceblue;
+    background-color: skyblue;
 }
 li {
     float: left;
@@ -18,30 +19,42 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    font-family: sans-serif;
 }
 li a:hover {
-    background-color: azure;
+    background-color: whitesmoke;
 }
 h1 {
-    color: white;
+    color: black;
     text-align: center;
 }
 .active {
     background-color: black;
 }
 #img1 {
-    width: 40%; 
-    height: 100%;
+    width: 500px; 
+    height: 300px;
+    float: right;
     
 }
 #Img2 {
-    width: 40%;
-    height: 60%;
+    width: 500px;
+    height: 300px;
+    float: right;
 }
 p1 {
-    float: right;
+    color: black;
+    
 }
 #h21 {
     text-align: center;
-    color: white;
+    color: black;
+}
+same {
+    color: black;
+}
+#img3 {
+    display: block;
+    margin-left: auto;
+    margin-left: auto;
 }
