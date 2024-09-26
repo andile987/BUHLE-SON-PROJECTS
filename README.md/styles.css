@@ -29,3 +29,19 @@ h1 {
 .active {
     background-color: black;
 }
+#img1 {
+    width: 40%; 
+    height: 100%;
+    
+}
+#Img2 {
+    width: 40%;
+    height: 60%;
+}
+p1 {
+    float: right;
+}
+#h21 {
+    text-align: center;
+    color: white;
+}
